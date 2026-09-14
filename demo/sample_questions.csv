@@ -1,0 +1,8 @@
+question_id,section,question,customer_answer,notes
+Q-001,Access Control,Do you require multi-factor authentication for administrative access?,,
+Q-002,Privacy,What is your policy for deletion of customer personal data?,,
+Q-003,Incident Response,Do you notify customers of a security incident and within what timeframe?,,
+Q-004,Development,Do you perform code review and vulnerability testing before release?,,
+Q-005,Compliance,Do you maintain a current SOC 2 Type II report?,,
+Q-006,General,Describe your employee onboarding and termination process.,,
+Q-007,Contract,Will you agree to our proposed security indemnity language?,,
