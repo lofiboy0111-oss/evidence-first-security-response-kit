@@ -1,0 +1,24 @@
+# Security Questionnaire Audit Receipt
+
+- Request ID:
+- Customer/account:
+- Product/environment scope:
+- Received:
+- Internal due date:
+- Completed:
+- Questionnaire filename/version:
+- Final response filename/version:
+- Drafter:
+- Subject-matter reviewers:
+- Final approver:
+- Submission recipient/channel:
+- Submission timestamp:
+- Confirmation/reference:
+- Evidence register location:
+- Citation map location:
+- Red flags and dispositions:
+- Approved tools used:
+- Data locations:
+- Retention/deletion due date:
+- Deletion completed:
+- Exceptions:
