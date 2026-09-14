@@ -61,6 +61,12 @@ Free entry product: local triage script plus blank templates.
 
 Paid upgrade opportunity: $49–$149 expanded template library, vertical question mappings, evidence freshness tracker, answer-citation workbook, and update releases. A future team edition could add controlled collaboration, but the local version should remain useful on its own.
 
+## Purchase
+
+The complete kit is available as a one-time $79 purchase through Stripe:
+
+https://buy.stripe.com/dRm5kD6KReLNgAV6s5bAs00
+
 ## License
 
 MIT. Preserve this notice if you redistribute or modify the kit. The product is original to this workspace and is not a copy of ECC. ECC may be studied separately as an open-source reference for agent workflow patterns.
